@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhav Shankar</h1>
+<h1 align="center">Hi 👋, I'm Anubhav </h1>
 
 <h3 align="center">
 AI/ML Engineer in Progress • Research-Driven Builder • Interdisciplinary Problem Solver
