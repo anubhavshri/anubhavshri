@@ -90,17 +90,6 @@ Built classification models with feature engineering and optimization for predic
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anubhavshri&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavshri&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Philosophy
 
